@@ -2,7 +2,7 @@
 
 > An interactive browser-based simulation of how UK financial crime detection systems catch money laundering across all three stages: Placement, Layering, and Integration.
 
-**[▶ Play Live](https://nikkiill.github.io/AML-Laundromat-Game/)** &nbsp;|&nbsp; Built by [Nikhil Shinde](https://linkedin.com/in/nikhil-shinde-55a0a210b) — KYC/AML Product Specialist
+**[▶ Play Live](https://nikkiill.github.io/FlaggedAML-game/)** &nbsp;|&nbsp; Built by [Nikhil Shinde](https://linkedin.com/in/nikhil-shinde-55a0a210b) — KYC/AML Product Specialist
 
 ---
 
